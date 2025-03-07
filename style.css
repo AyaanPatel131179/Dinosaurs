@@ -1,0 +1,28 @@
+body {
+   background-color: #000000;
+   
+  
+  }
+  
+
+.meddon-regular {
+    font-family: "Meddon", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h1{
+    text-align: center;
+    font-family: "Meddon", cursive;
+    color: #5B1166;
+  }
+  @font-face {
+    font-family: "Alpha";
+    src: url(Quintessential-Regular.ttf);
+  }
+  .caption {
+    font-family: "Alpha";
+    color:#83358F ;
+  }
+  p{
+    color:#83358F ;
+  }
